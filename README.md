@@ -2,7 +2,7 @@
   <tr>
     <td width="2%"></td>
     <td width="96%">
-        <img src="https://github.com/escapemanuele/escapemanuele/blob/master/freelance-developer.gif">
+        <img src="https://github.com/escapemanuele/escapemanuele/blob/master/freelance-developer.gif" style="width: 100%">
     </td>
     <td width="2%"></td>
   </tr>
