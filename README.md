@@ -1,3 +1,5 @@
+# 👋  Hi, I am Emanuele
+
 <table>
   <tr>
     <td width="10%"></td>
@@ -13,12 +15,22 @@
   Pixel Artist: <a href="https://tenor.com/users/zachburnett">zachburnett</a>
 </em>
 
-
-
-
-### Hi there 👋
+## I'm a Freelancer Developer (Frontend for the most part)
 
 - 🔭 I’m currently working on a NextJS Ecommerce and a big GatsbyJS blog
 - 🌱 I’m currently improving my knowledge of GatsbyJS and NextJS
 - 👯 I’m open to contract work!
-- 📫 You can reach me on Linkedin or by mail
+
+## ✨ My Expertise
+- Javascript
+- React
+- GatsbyJS
+- NextJS
+
+## 💌 Get in touch
+
+- Email: escapemanuele@gmail.com
+- Linkedin: https://www.linkedin.com/in/ebuccelli/
+
+## Misc.
+[![Escapemanuele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=escapemanuele&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/escapemanuele)
