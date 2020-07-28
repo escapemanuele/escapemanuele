@@ -1,6 +1,14 @@
-<a href="#">
-  <img src="https://github.com/escapemanuele/escapemanuele/blob/master/freelance-developer.gif" style="min-width: 100%">
-</a>
+<table>
+  <tr>
+    <td width="10%"></td>
+    <td width="80%">
+      <a href="#">
+        <img src="https://github.com/escapemanuele/escapemanuele/blob/master/freelance-developer.gif" style="min-width: 100%">
+      </a>
+    </td>
+    <td width="10%"></td>
+  </tr>
+</table>
 <em>
   Pixel Artist: <a href="https://tenor.com/users/zachburnett">zachburnett</a>
 </em>
