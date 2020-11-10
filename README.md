@@ -18,7 +18,6 @@
 ## I'm a Freelancer Developer (Frontend for the most part)
 
 - 🔭 I’m currently working on a NextJS Ecommerce and a big GatsbyJS blog
-- 🌱 I’m currently improving my knowledge of GatsbyJS and NextJS
 - 👯 I’m open to contract work!
 
 ## ✨ My Expertise
