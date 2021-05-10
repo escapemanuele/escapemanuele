@@ -22,6 +22,7 @@
 
 ## ✨ My Expertise
 - Javascript
+- Typescript
 - React
 - GatsbyJS
 - NextJS
