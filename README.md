@@ -12,12 +12,12 @@
   </tr>
 </table>
 <em>
-  Pixel Artist: <a href="https://tenor.com/users/zachburnett">zachburnett</a>
+ Generated on: <a href="https://lexica.art/">Lexica.art</a>
 </em>
 
 ## I'm a Freelancer Developer (Frontend for the most part)
 
-- 🔭 I’m currently working on a NextJS Ecommerce and a big GatsbyJS blog
+- 🔭 Senior Engineer at Automattic
 
 ## ✨ My Expertise
 - Javascript
