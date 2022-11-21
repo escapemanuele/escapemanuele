@@ -5,7 +5,7 @@
     <td width="10%"></td>
     <td width="80%">
       <a href="#">
-        <img src="https://github.com/escapemanuele/escapemanuele/blob/master/freelance-developer.gif" style="min-width: 100%">
+        <img src="https://github.com/escapemanuele/escapemanuele/blob/master/me.jpeg" style="min-width: 100%">
       </a>
     </td>
     <td width="10%"></td>
